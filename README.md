@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshiyun&show_icons=true&theme=shadow_green)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshiyun&show_icons=true&theme=vue)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cshiyun&show_icons=true&theme=transparent)
 
 
